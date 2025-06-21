@@ -3,6 +3,9 @@ Hello, im polygauze (pronounced polly-gawze, kind-of like polygons), I am an ani
 <br>I enjoy:
 - open source software
 - rayman
-- old/retro software
+- old/retro hardware/software
 - python
 - vita sdk
+- penny's big breakaway
+- irrlicht engine
+- windows 7; aero
