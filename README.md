@@ -1,8 +1,8 @@
 ## 📝poly's page
-Hello, im polygauze (pronounced polly-gawze), I am an animator and progammer (sort of).
+Hello, im polygauze (pronounced polly-gawze, kind-of like polygons), I am an animator and progammer (sort of).
 <br>I enjoy:
 - open source software
 - rayman
 - old/retro software
 - python
-- idk
+- vita sdk
