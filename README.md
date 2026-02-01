@@ -8,4 +8,3 @@ Hello, im polygauze (pronounced polly-gawze, kind-of like polygons), I am an ani
 - vita sdk
 - penny's big breakaway
 - irrlicht engine
-- windows 7; aero
